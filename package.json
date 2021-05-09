@@ -4,7 +4,7 @@
   "description": "A metalsmith blog",
   "main": "index.js",
   "devDependencies": {
-    "handlebars": "^4.0.8",
+    "handlebars": "^4.7.7",
     "metalsmith": "^2.3.0",
     "metalsmith-assets": "^0.1.0",
     "metalsmith-branch": "0.0.5",
